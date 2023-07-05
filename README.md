@@ -21,16 +21,5 @@ In this game, the objective is to pass through all the obstacles and not hit the
 2. [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 3. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## 👨‍🎓 What will you learn?
+By building this project, you will learn about CSS animations and JavaScript. You will learn about collision detection between various game objects. 
 
-By building this project, you will learn about CSS animations and JavaScript. You will learn about collision detection between various game objects. In all, this project will be a great learning experience.
-
-## 🆘 How to get help?
-
-If you are stuck in any step, you can view the completed project in this repository's `final` branch.
-
-<br/>
-
-<p align="center">
-🐥 <i>All the best</i> 🐥
-</p>
