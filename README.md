@@ -1,8 +1,5 @@
 # 🐤 Flappy Bird Game
 
-![Banner](https://raw.githubusercontent.com/varunKT001/flappy-bird-starter/banner/banner.png)
-
-## 🔗 Demo: [Flappy Bird](https://varunkt001.github.io/flappy-bird-starter/)
 
 ## 🧾 Description
 
